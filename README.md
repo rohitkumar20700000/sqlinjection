@@ -1,4 +1,4 @@
-# EXPERIMENT-08-SQL Injec on and Case Studies of Award-Winning XSS Attacks
+# EXPERIMENT-08-SQL Injection and Case Studies of Award Winning XSS Attacks
 Exploiting SQL Injection vulnerability
 
 # AIM:
